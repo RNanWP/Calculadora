@@ -24,7 +24,6 @@ Este é um projeto de calculadora simples implementado em C#. A calculadora real
 
 1. **Clone o repositório:**
 ```bash
-Copiar código
     git clone https://github.com/RNanWP/Calculadora.git
 ```
 2. **Abra no Visual Studio:**
