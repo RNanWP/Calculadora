@@ -49,5 +49,5 @@ Este projeto está licenciado sob a MIT License.
 ## Contato
 Para mais informações, entre em contato:
 
-Nome: Renan Santos de Oliveira.
-Email: ...
+- Nome: Renan Santos de Oliveira.
+- Email: ...
